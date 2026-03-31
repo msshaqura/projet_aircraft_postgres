@@ -116,9 +116,7 @@ Ce projet existe en deux versions pour démontrer l'adaptabilité des compétenc
 
 | Version           | Base de données       | Environnement         | Lien                                                  |
 |-------------------|-----------------------|-----------------------|-------------------------------------------------------|
-| PostgreSQL        | PostgreSQL (local)    | Jupyter Notebook      | https://github.com/msshaqura/projet_aircraft_postgres |
-|-------------------|-----------------------|-----------------------|-------------------------------------------------------|	
-| BigQuery          | BigQuery (cloud)      | Streamlit direct      |https://github.com/msshaqura/projet_aircraft_bigquery  |
+| PostgreSQL| PostgreSQL (local)| Jupyter Notebook| https://github.com/msshaqura/projet_aircraft_postgres|BigQuery| BigQuery (cloud)| Streamlit direct|https://github.com/msshaqura/projet_aircraft_bigquery|
 
 
 Les deux versions utilisent exactement les mêmes requêtes SQL et produisent les mêmes résultats, prouvant que :
