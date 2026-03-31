@@ -1,0 +1,9 @@
+psycopg2-binary>=2.9.0
+pandas>=2.0.0
+sqlalchemy>=2.0.0
+ipykernel>=6.25.0
+jupyter>=1.0.0
+python-dotenv>=1.0.0
+streamlit>=1.25.0
+plotly>=5.15.0
+matplotlib>=3.7.0

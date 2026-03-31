@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+venv_aircraft/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Data 
+results/
+!data/*.csv
+
+# OS
+.DS_Store
