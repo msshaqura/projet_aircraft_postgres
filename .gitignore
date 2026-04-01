@@ -10,7 +10,6 @@ venv_aircraft/
 .idea/
 
 # Data 
-results/
 !data/*.csv
 
 # OS
