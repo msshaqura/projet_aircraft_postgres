@@ -1,3 +1,7 @@
+Hugging Face Spaces Python 3.11+ Streamlit SQL
+
+🚀 Live Demo 👉 Try the app here:
+[https://huggingface.co/spaces/msshaqura/aircraft_postgres_project]
 # ✈️ Aircraft Data Analysis - PostgreSQL Version
 
 ## 📝 Contexte du Projet
