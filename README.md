@@ -1,4 +1,9 @@
-Hugging Face Spaces Python 3.11+ Streamlit SQL
+# 🎯 Aircraft Analysis Dashboard using Postgres
+
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗-Live%20App-yellow)](https://huggingface.co/spaces/msshaqura/netflix_project)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational%20DB-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-red)](https://streamlit.io)
 
 🚀 Live Demo 👉 Try the app here:
 [https://huggingface.co/spaces/msshaqura/aircraft_postgres_project]
