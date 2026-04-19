@@ -55,7 +55,8 @@ aircraft-analysis-postgres/
 │
 ├── data/
 │ ├── question1_avions.csv
-│ ├── question2_aeroports.csv
+│ ├── question2_aeroports.csv  # Conformément aux instructions de l'énoncé, le nombre de passagers a été estimé à partir de la capacité des avions 
+| |                              multiplée par le nombre de vols par type d'appareils. 
 │ ├── question3_rpm_best_year.csv
 │ ├── question3_rpm_yearly.csv
 │ ├── question4_croissance_best_year.csv
